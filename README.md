@@ -1,2 +1,2 @@
 # web_ar_lanterna
-https://github.com/ClaudioStatzu/ar2.git
+https://unpkg.com/@google/model-viewer/dist/model-viewer.js
