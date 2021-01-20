@@ -1,2 +1,2 @@
 # web_ar_lanterna
-https://ClaudioStatzu.github.io/ar2/
+https://github.com/ClaudioStatzu/ar2.git
