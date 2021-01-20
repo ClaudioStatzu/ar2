@@ -1,2 +1,2 @@
-# web_ar_lanterna
-https://unpkg.com/@google/model-viewer/dist/model-viewer.js
+# web_ar_apollo_dafne
+https://mdstefano.github.io/ar/
